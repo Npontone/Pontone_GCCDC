@@ -5,7 +5,7 @@ UNDER CONSTRUCTION
 # About The Project
 This repository holds a set of scripts used to detect and characterize forest disturbances in Temagami, Ontario.
 
-These scripts are an application of the CCDC algorithm in Google Earth Engine. See Zhu & Woodcock (2012), Zhu and Woodcock (2014) and Zhu et al. (2015) for more information about the CCDC algorithm. For the CCDC helper functions used in this script, see Arévalo et al (2020).
+This projec is an application of the CCDC algorithm in Google Earth Engine (GEE). See Zhu & Woodcock (2012), Zhu and Woodcock (2014) and Zhu et al. (2015) for more information about the CCDC algorithm. For the CCDC helper functions used in this script, see Arévalo et al (2020).
 
 # Citations:
 
