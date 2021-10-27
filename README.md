@@ -22,5 +22,5 @@ Zhu, Z., Woodcock, C. E., Holden, C., and Yang, Z., Generating synthetic Landsat
 
 # Contact:
 
-Nicholas Pontone - NicholasPontone@cmail.carleton.ca - @Npontone
+Nicholas Pontone - NicholasPontone@cmail.carleton.ca - [@Npontone](https://twitter.com/NPontone)
 
